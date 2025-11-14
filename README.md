@@ -1,10 +1,10 @@
-# 💼 BankGuard_AutoTest
+# Automating Tests for Mobile Banking Application
 
 **Automated Testing Framework for Banking APIs and Database Validation**
 
 BankGuard_AutoTest is a lightweight yet scalable automation framework built to validate banking APIs and database operations with precision and clarity. Designed for QA engineers and developers who value clean architecture and reliable test coverage, this project integrates API and DB testing workflows using tools like RestAssured, POSTMAN, and TestNG.
 
-## 🚀 Features
+##  Features
 
 - ✅ API Testing with RestAssured and POSTMAN collections  
 - 🗄️ Database Validation using JDBC queries  
