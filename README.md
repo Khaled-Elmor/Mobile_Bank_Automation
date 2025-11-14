@@ -55,8 +55,3 @@ BankGuard_AutoTest is a lightweight yet scalable automation framework built to v
 - 🌐 Environment-based config management  
 - 🧩 Dockerized test execution
 
-## 👨‍💻 Author
-
-**Khaled MohyEldin**  
-Software QC Engineer | Automation Specialist  
-[LinkedIn Profile](https://www.linkedin.com/in/khaled-mohyeldin-07271285/)
